@@ -1,0 +1,10 @@
+{
+    "VideoUrl": {
+        "code": "CCA_001",
+        "message": "Success",
+        "data": {
+            "playerUrl": "https://www.videoindexer.ai/embed/player/a23c76c9-eaf1-4e8f-84a8-1eab4d05b1f3/2ea1768332?accessToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJBY2NvdW50SWQiOiJhMjNjNzZjOS1lYWYxLTRlOGYtODRhOC0xZWFiNGQwNWIxZjMiLCJBbGxvd0VkaXQiOiJUcnVlIiwiRXh0ZXJuYWxVc2VySWQiOiJCQzhEN0I0NzVFRDU0NzVBQjVGMURERjExN0M5RUY5OSIsIlVzZXJUeXBlIjoiTWljcm9zb2Z0Q29ycEFhZCIsImlzcyI6Imh0dHBzOi8vd3d3LnZpZGVvaW5kZXhlci5haS8iLCJhdWQiOiJodHRwczovL3d3dy52aWRlb2luZGV4ZXIuYWkvIiwiZXhwIjoxNTcyNDM1MjEyLCJuYmYiOjE1NzI0MzEzMTJ9.2rU3xSx17WDppLBZnAQi0z-NJwKVGrkQMiRJWcmfWqY",
+            "insightUrl": "https://www.videoindexer.ai/embed/insights/a23c76c9-eaf1-4e8f-84a8-1eab4d05b1f3/2ea1768332?accessToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJBY2NvdW50SWQiOiJhMjNjNzZjOS1lYWYxLTRlOGYtODRhOC0xZWFiNGQwNWIxZjMiLCJBbGxvd0VkaXQiOiJUcnVlIiwiRXh0ZXJuYWxVc2VySWQiOiJCQzhEN0I0NzVFRDU0NzVBQjVGMURERjExN0M5RUY5OSIsIlVzZXJUeXBlIjoiTWljcm9zb2Z0Q29ycEFhZCIsImlzcyI6Imh0dHBzOi8vd3d3LnZpZGVvaW5kZXhlci5haS8iLCJhdWQiOiJodHRwczovL3d3dy52aWRlb2luZGV4ZXIuYWkvIiwiZXhwIjoxNTcyNDM1MjEyLCJuYmYiOjE1NzI0MzEzMTJ9.2rU3xSx17WDppLBZnAQi0z-NJwKVGrkQMiRJWcmfWqY"
+        }
+    }
+}
